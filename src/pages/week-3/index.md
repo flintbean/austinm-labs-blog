@@ -11,6 +11,9 @@ Github handle: Flintbean
 
 Whiteboard: (https://youtu.be/_XIVk6Un0lc)
 
+Back-End: https://teamcomm2.herokuapp.com/ 
+Front-End: https://team-comm.netlify.com/landing
+
 # Part 1
 
 Third week went pretty well. This week was fully implementing socketio. JJ layed down a solid foundation with getting the core websocket functionality working. My job was to connect this to our mongodb. At the beginning of the week we were using two collections. Our user collection, which keeps all of the information about our user. Then we had our meeting collection, which held all of information about our meeting. My first run through with websockets consisted of connecting it to the "meeting" collection. This worked fine and I had it working within the first day. However, since data was constantly being updated with sockets and properties were constantly changing(questions, people in the meeting, notes), our collection was gigantic after the meeting. Which seemed like it would cause a lot of trouble down the road. In my mind, it seemed like adding another collection that held all the info from the meeting once it went live was going to be more maintanable and better for us down the road. 

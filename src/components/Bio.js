@@ -27,7 +27,7 @@ class Bio extends React.Component {
           }}
         />
         <p>
-          Written by <strong>Austin Merando</strong> who lives and works in California building useful things.{' '}
+          Written by <strong>Austin Merando</strong> who lives and works in California as an aspiring Software Engineer.{' '}
         </p>
       </div>
     )
