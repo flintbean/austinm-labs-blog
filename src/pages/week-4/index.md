@@ -9,7 +9,7 @@ Fourth Sprint Journal for Labs8
 
 Github handle: Flintbean
 
-Whiteboard: 
+Whiteboard: https://youtu.be/4zX0Tk6ZV-g
 
 Back-End: https://teamcomm2.herokuapp.com/ 
 Front-End: https://team-comm.netlify.com/landing
